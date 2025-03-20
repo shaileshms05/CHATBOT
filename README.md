@@ -1,7 +1,10 @@
 
 ## 🚀 Chatbot
 
-This project builds a **custom chatbot** that uses a neural network (** lstm**) to generate embeddings for questions and utilizes a **FAISS (Facebook AI Similarity Search)** index to match user queries with relevant answers. Additionally, the chatbot supports **voice input and output** for a seamless user experience.
+This project builds a **custom chatbot** that uses a neural network **LSTM** to generate embeddings for questions and utilizes a **FAISS (Facebook AI Similarity Search)** index to match user queries with relevant answers. Additionally, the chatbot supports **voice input and output** for a seamless user experience.
+
+
+![Screenshot 2025-03-20 161636](https://github.com/user-attachments/assets/4be1df5d-dc34-4d0c-8049-5fd8e9f9352a)
 
 ---
 
@@ -121,5 +124,5 @@ http://127.0.0.1:5000
 
 ---
 
-![Screenshot 2025-03-20 161636](https://github.com/user-attachments/assets/4be1df5d-dc34-4d0c-8049-5fd8e9f9352a)
+
 
